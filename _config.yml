@@ -65,11 +65,11 @@ content:
         description: | # this will include new lines to allow paragraphs
             Software development in the energy industry from the bottom to the top - design, architecture, investigation of business processes, implementation, code reviews, CI/CD pipelines, deployment, production support, complex monitoring of deployed applications, etc.
             
-            Technologies: Java 17, Spring Boot, Micronaut, Gams, Selenium, Docker, PosgreSQL, TimescaleDB, R, Keras and Tensorflow (only DevOps and production support), Github Actions, AWS Stack, Terraform, Ansible, Prometheus, Grafana, ELK stack
+            Technologies: Java 18, Spring Boot, Micronaut, Gams, Selenium, Kafka, Docker, PosgreSQL, TimescaleDB, R, Keras and Tensorflow (only DevOps and production support), Github Actions, AWS Stack, Terraform, Ansible, Prometheus, Grafana, ELK stack
             
             Projects:
 
-              - PX Plant - SaaS solution acting as the energy broker and aggregator using advanced analytics with the latest machine learning concepts and multiple data pipelines to optimize energy assests in real time. Based on the OPC Unified Architecture (UA), MODBUS, Java 17, R, Gams, Docker, etc.
+              - PX Plant - SaaS solution acting as the energy broker and aggregator using advanced analytics with the latest machine learning concepts and multiple data pipelines to optimize energy assets in real time. Based on the OPC Unified Architecture (UA), MODBUS, Java 18, R, Gams, Docker, etc.
 
               - PX Trade - SaaS solution that optimizes the day ahead and intraday energy trading based on various datasources. Used technologies: Java 16, R, Docker, Selenium, etc.
 
