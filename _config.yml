@@ -44,7 +44,7 @@ linkedin_username: patrik-beka-6a0326155
 # about_title: About Me
 about_profile_image: images/profile-photo.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Patrik and I'm currently working as a Senior Sofware Developer in the energy industry. In my short, but eventful career in software development I had the chance to work in multiple domains - from betting, through telecommunications, banking and so on all the way to energetics. All of them had something in common - delivering functionality in high quality and on time.
+  Hi, my name's Patrik and I'm currently working as a Senior Sofware Engineer in the energy industry. In my short, but eventful career in software development I had the chance to work in multiple domains - from betting, through telecommunications, banking and so on all the way to energetics. All of them had something in common - delivering functionality in high quality and on time.
 
   The key principles for me are mutual respect, team work, clean coding (KISS, DRY, etc.) and testability - I am the one who gets things done. 
 
@@ -58,7 +58,7 @@ content:
         title: PowereX j.s.a.
         link: powerex.io
         # link_text: boringcompany.com
-        sub_title: Senior Software Developer
+        sub_title: Senior Software Engineer
         caption: September 2019 - Present
         quote: >
           Solving 21st century energy problems by making the green technologies more accessible and affordable with latest advancements in the AI and data processing
@@ -106,7 +106,7 @@ content:
         sub_title: Junior Backend Developer
         caption: June 2017 - February 2018
         quote: >
-          Largest betting company in slovakia
+          Largest betting company in Slovakia
         description: | # this will include new lines to allow paragraphs
             Responsible for:
               - maintenance and development of backend modules (Perl, RabbitMQ, MySQL)
@@ -127,9 +127,6 @@ content:
             - Master thesis: The modeling of human visual attention using computer vision and articial intelligence
             - TP Cup 2018 winner with team project: Behametrics - behavioral biometrics on mobile devices
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Slovak University of Technology
         caption: 2017
